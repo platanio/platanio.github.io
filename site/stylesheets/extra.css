@@ -1,0 +1,38 @@
+.md-banner {
+    background-color: #4cae4f;
+    color: var(--md-footer-fg-color);
+    overflow: auto
+}
+
+.button {
+    margin-right: 1%;
+    float: right;
+    background-color: #fff;
+    border-color: #dbdbdb;
+    border-width: 1px;
+    color: white;
+    cursor: pointer;
+    justify-content: center;
+    padding-bottom: calc(0.5em - 1px);
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: calc(0.5em - 1px);
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+.button_green {background-color: #073f09;} /* Green */
+.button_blue {background-color: #008CBA;} /* Blue */
+
+.button.is-rounded {
+    border-radius: 290486px;
+    padding-left: calc(1em + 0.25em);
+    padding-right: calc(1em + 0.25em);
+}
+.button.is-normal {
+    font-size: 0.8rem;
+}
+.button.is-dark {
+    border-color: transparent;
+    color: #fff;
+}

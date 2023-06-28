@@ -1,13 +1,16 @@
 {% extends "base.html" %}
 
 {% block htmltitle %}
-  <title>Lorem ipsum dolor sit amet</title>
+  <title>Kostas N. Plataniotis</title>
 {% endblock %}
 
+
 {% block announce %}
+  {% if page.meta and page.meta.banner %}
   <div class="container-fluid bg-green">
     <hr>
-    <img src="{{ 'assets/images/banner2.jpg' |url }}"style='width: 100%; height: auto; display: block;margin-left: auto;margin-right: auto;'></img>
+    <img src="{{ page.meta.banner |url }}"style='width: 100%; height: auto; display: block;margin-left: auto;margin-right: auto;'></img>
     <hr>
   </div>
+  {% endif %}
 {% endblock %}

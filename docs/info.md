@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # This is an Info Page
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).

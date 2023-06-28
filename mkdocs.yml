@@ -1,9 +1,10 @@
-site_name: Konstantinos N. Plataniotis
+site_name: Kostas N. Plataniotis
 site_url: https://platanio.github.io
 
 nav:
   - Home: index.md
-  - Info: info.md
+  - Biography and Statement: bio_statement.md
+  - Contact: contact.md
 
 theme:
   name: material
@@ -13,11 +14,11 @@ theme:
     primary: green
     accent: light-green
   favicon: assets/images/favicon/favicon.ico
-  logo: assets/images/logo/uoft.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    
 
 extra_css:
   - stylesheets/extra.css
@@ -25,6 +26,22 @@ extra_css:
 extra_javascript:
   - javascripts/extra.js
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
 
 extra:
   consent:
@@ -36,6 +53,12 @@ extra:
     actions:
       - accept
       - manage
+
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/kostas-plataniotis-b360811/
+    # - icon: assets/images/academicons/svg/ads
+    #   link: https://www.linkedin.com/in/kostas-plataniotis-b360811/
 
 copyright: >
   Copyright &copy; 2023 Konstantinos N. Plataniotis –
