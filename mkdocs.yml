@@ -1,6 +1,10 @@
 site_name: Konstantinos N. Plataniotis
 site_url: https://platanio.github.io
 
+nav:
+  - Home: index.md
+  - Info: info.md
+
 theme:
   name: material
   language: en
@@ -32,6 +36,4 @@ copyright: >
   <a href="#__consent">Change cookie settings</a>
 
 
-nav:
-  - Home: index.md
-  - Info: info.md
+
