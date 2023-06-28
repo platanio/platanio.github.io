@@ -1,0 +1,5 @@
+.md-banner {
+    background-color: #4cae4f;
+    color: var(--md-footer-fg-color);
+    overflow: auto
+}
