@@ -23,6 +23,24 @@ Please click the button below and follow the instructions to cast your vote.
 
 !!! success ""
 
+<!-- Photo Grid -->
+<div class="rowimg"> 
+  <div class="column">
+    <img src="assets/images/sps/1.jpg" style="width:100%">
+    <img src="assets/images/sps/4.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="assets/images/sps/2.jpg" style="width:100%">
+    <img src="assets/images/sps/3.jpg" style="width:100%">
+  </div>  
+  <div class="column">
+    <img src="assets/images/sps/5.jpg" style="width:100%">
+    <img src="assets/images/sps/6.jpg" style="width:100%">
+  </div>
+</div>
+
+
+
 ## **Who am I?**
   
 **IEEE:** I have served as the inaugural Vice President membership for the Signal Processing Society (2013-2016), IEEE Signal Processing Letters Editor-in-Chief (2009-2011), 2017 GlobalSIP, 2018 International Conference on Image Processing (ICIP2018), and 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP2021) co-Chair.  I serve as the co-Chair for ICASSP2027.  During my tenure as SPS VP-membership, IEEE level boards continuous education to benefit industry members and low-resource region, society membership has constantly increased, especially in student and graduate student grades; many member-driven initiatives were introduced, and most of our affinity groups were established. 
