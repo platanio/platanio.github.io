@@ -69,7 +69,7 @@ I will focus on the following:
     - [x] Establish microlearning opportunities and stackable credentials in emerging areas of interest. 
     - [x] Expand our mentoring programs to underserved areas and underrepresented groups in our community.
 
-!!! success "Support our volunteers – enhance the value proposition with new offerings and services."
+!!! success "Support our volunteers – enhance the value proposition."
 
     - [x] Increase diversity among our volunteers, incentivize and recognize them. 
     - [x] Facilitate collaboration with sister societies and other IEEE units with shared interests.
