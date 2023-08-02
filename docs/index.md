@@ -27,7 +27,7 @@ I have been an SPS member for over 30 years and have served SPS in many roles, i
   <div class="column">
     <img src="assets/images/sps/1.jpg" style="width:100%">
     <img src="assets/images/sps/4.jpg" style="width:100%">
-    <img src="assets/images/sps/99.jpg" style="width:100%">
+    <img src="assets/images/sps/99.JPG" style="width:100%">
   </div>
   <div class="column">
     
