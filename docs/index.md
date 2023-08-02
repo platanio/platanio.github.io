@@ -39,9 +39,9 @@ I have been an SPS member for over 30 years and have served SPS in many roles, i
   </div>  
   <div class="column">
     <!-- <img src="assets/images/sps/2.jpg" style="width:100%"> -->
-    <img src="assets/images/sps/99.jpg" style="width:100%">
+    <img src="assets/images/sps/99.JPG" style="width:100%">
     <img src="assets/images/sps/77.jpg" style="width:100%">
-    <img src="assets/images/sps/88.jpg" style="width:100%">
+    <img src="assets/images/sps/88.JPG" style="width:100%">
     <!-- <img src="assets/images/sps/99.jpg" style="width:100%"> -->
 
 
