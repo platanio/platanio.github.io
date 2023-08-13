@@ -1,6 +1,6 @@
 ---
 title: Kostas N. Plataniotis
-banner: 'assets/images/banner2.jpg'
+banner: 'assets/images/banner5.jpg'
 hide:
   - navigation
   - toc
