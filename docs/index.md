@@ -22,32 +22,6 @@ I have been an SPS member for over 30 years and have served SPS in many roles, i
 
 !!! success ""
 
-<!-- Photo Grid -->
-<div class="rowimg"> 
-  <div class="column">
-    <img src="assets/images/sps/1.jpg" style="width:100%">
-    <img src="assets/images/sps/4.jpg" style="width:100%">
-    <img src="assets/images/sps/99.JPG" style="width:100%">
-  </div>
-  <div class="column">
-    
-    <img src="assets/images/sps/5.jpg" style="width:100%">
-    <img src="assets/images/sps/2.jpg" style="width:100%"> 
-    <img src="assets/images/sps/6.jpg" style="width:100%">
-
-
-  </div>  
-  <div class="column">
-    <!-- <img src="assets/images/sps/2.jpg" style="width:100%"> -->
-    <img src="assets/images/sps/99.JPG" style="width:100%">
-    <img src="assets/images/sps/77.jpg" style="width:100%">
-    <img src="assets/images/sps/88.JPG" style="width:100%">
-    <!-- <img src="assets/images/sps/99.jpg" style="width:100%"> -->
-
-
-  </div>
-</div>
-
 
 
 ## **Who am I?**
@@ -99,5 +73,29 @@ I will focus on the following:
 !!! success ""
 
 
+<!-- Photo Grid -->
+<div class="rowimg"> 
+  <div class="column">
+    <img src="assets/images/sps/1.jpg" style="width:100%">
+    <img src="assets/images/sps/4.jpg" style="width:100%">
+    <img src="assets/images/sps/99.JPG" style="width:100%">
+  </div>
+  <div class="column">
+    
+    <img src="assets/images/sps/5.jpg" style="width:100%">
+    <img src="assets/images/sps/2.jpg" style="width:100%"> 
+    <img src="assets/images/sps/6.jpg" style="width:100%">
 
+
+  </div>  
+  <div class="column">
+    <!-- <img src="assets/images/sps/2.jpg" style="width:100%"> -->
+    <img src="assets/images/sps/99.JPG" style="width:100%">
+    <img src="assets/images/sps/77.jpg" style="width:100%">
+    <img src="assets/images/sps/88.JPG" style="width:100%">
+    <!-- <img src="assets/images/sps/99.jpg" style="width:100%"> -->
+
+
+  </div>
+</div>
 
