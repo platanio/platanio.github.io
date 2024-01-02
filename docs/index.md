@@ -1,6 +1,6 @@
 ---
 title: Kostas Plataniotis 
-banner: 'assets/images/banner5.jpg'
+banner: 'assets/images/IEEE_SPS_President_Elect_banner.png'
 hide:
   - navigation
   - toc
